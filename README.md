@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GOWDU
+- 👋 Hi, I’m D THARUN KUMAR
 - 👀 I’m interested in soft ware job
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on developer
